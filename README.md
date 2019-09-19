@@ -3,7 +3,9 @@
   <br>
 </p>
 
-# C-Turtle
+# C-Turtle -- LEGACY REPO
+#### This repository exists to reflect the original project structure prior to being in a single header!
+#### Maintanence is not planned for this repository. To stay up to date, it is recommended that the master branch is used to avoid bugs that have been fixed in more recent releases.
 #### [Documentation](https://walkerje.github.io/C-Turtle/docs/index.html)
 #### [Setup / Installation](https://walkerje.github.io/C-Turtle/docs/md__home_jesse_Development_Work_C-Turtle-Doxy_setup.html)
 
